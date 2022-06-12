@@ -1,7 +1,7 @@
 {
   "name": "react-webpack-setup",
   "version": "1.0.0",
-  "description": "This is a Boilerplate for creating React App with Webpack",
+  "description": "",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -9,22 +9,8 @@
     "dev": "webpack server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/szmazhr/react-webpack-setup.git"
-  },
-  "keywords": [
-    "react",
-    "webpack",
-    "boilerplate"
-  ],
   "author": "Shahzar Mazhar <mohdshahzar.1996@gmail.com> (http://t.co/szmazhr/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/szmazhr/react-webpack-setup/issues",
-    "email": "mohdshahzar.1996@gmail.com"
-  },
-  "homepage": "https://github.com/szmazhr/react-webpack-setup#readme",
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
